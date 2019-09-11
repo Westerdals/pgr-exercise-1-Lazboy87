@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="306f8941-7dce-45ff-8cac-7d1c0ac4bee7" name="Default Changelist" comment="" />
+    <list default="true" id="306f8941-7dce-45ff-8cac-7d1c0ac4bee7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/kristiania/httpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/kristiania/httpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SimpleHTTPServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SimpleHTTPServerTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,7 +37,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1QgmwEKnkgzt2X1vuQOtuVBflbJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -57,6 +67,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="httpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.kristiania.httpClient" />
+      <module name="simpleHTTPserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.kristiania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.httpClient" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -68,11 +98,22 @@
       <option name="presentableId" value="Default" />
       <updated>1568200849961</updated>
       <workItem from="1568200851530" duration="3874000" />
-      <workItem from="1568207890261" duration="160000" />
+      <workItem from="1568207890261" duration="2119000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
