@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="306f8941-7dce-45ff-8cac-7d1c0ac4bee7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/no/kristiania/httpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/kristiania/httpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SimpleHTTPServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SimpleHTTPServerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/no/kristiania/httpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/SimpleHTTPServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SimpleHTTPServerTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SimpleHTTPServerTest">
     <configuration name="httpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="no.kristiania.httpClient" />
       <module name="simpleHTTPserver" />
@@ -83,8 +81,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleHTTPServerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simpleHTTPserver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleHTTPServerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SimpleHTTPServerTest" />
         <item itemvalue="Application.httpClient" />
       </list>
     </recent_temporary>
@@ -100,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568200849961</updated>
       <workItem from="1568200851530" duration="3874000" />
-      <workItem from="1568207890261" duration="4322000" />
+      <workItem from="1568207890261" duration="4667000" />
     </task>
     <servers />
   </component>
